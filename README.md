@@ -43,3 +43,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Links
 
 https://heroicons.com/
+https://www.youtube.com/watch?v=vU6G7cIaNqE
+https://summer-of-graphql-mdx-slides.netlify.app/38

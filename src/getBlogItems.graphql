@@ -1,0 +1,9 @@
+query GetBlogItems($preview: Boolean) {
+  blogPostCollection(preview: $preview) {
+    items {
+      title
+      slug
+      date
+    }
+  }
+}
